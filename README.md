@@ -1,5 +1,5 @@
 # WhatsApp_Chatbot
-<img src="https://github.com/user-attachments/assets/486f4747-bcc8-4c4f-a064-b2f37f534479" style="width:75%; height:auto;">
+<img src="https://github.com/user-attachments/assets/0c1c6f44-ee0d-4dfd-a9f5-a0613f802231" style="width:100%; height:auto;">
 <br>
 <!--
 <img src="https://github.com/user-attachments/assets/0ee6a67e-4e4b-4dac-acb8-859f0ea901e6" style="width:75%; height:auto;">
